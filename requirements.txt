@@ -6,6 +6,8 @@ notebook
 numpy
 matplotlib
 seaborn
+scikit-learn
+xgboost
 python-box==6.0.2
 PyYAML
 tqdm
