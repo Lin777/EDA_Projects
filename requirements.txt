@@ -17,3 +17,15 @@ types-PyYAML
 scipy
 Flask
 Flask-Cors
+
+# jupyter
+# pip install jupyter_contrib_nbextensions
+# notebook==6.4.12
+
+# automate 
+pandas-profiling
+dtale
+autoviz
+dataprep
+lux
+pandas_visual_analysis
